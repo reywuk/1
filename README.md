@@ -2,6 +2,8 @@
 estes un comentario
 
 Línea de la rama
+=======
+Nueva línea maestra
 
 Conflicto resuelto a lo bruto.
 
